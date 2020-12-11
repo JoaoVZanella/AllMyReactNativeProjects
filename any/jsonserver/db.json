@@ -1,0 +1,29 @@
+{
+  "curadoriaposts": [
+    {
+      "id": 0,
+      "titulo": "API POST",
+      "conteudo": "Conteudo de qualidade"
+    },
+    {
+      "id": 1,
+      "titulo": "POST",
+      "conteudo": "Conteudo de qualidade - ADD"
+    },
+    {
+      "id": 2,
+      "titulo": "API POST json server",
+      "conteudo": "Conteudo de qualidade - ADD"
+    },
+    {
+      "titulo": "3",
+      "conteudo": "3",
+      "id": 3
+    },
+    {
+      "titulo": "4",
+      "conteudo": "4",
+      "id": 4
+    }
+  ]
+}
